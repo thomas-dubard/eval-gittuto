@@ -1,7 +1,7 @@
 # eval-gittuto
  Ce dossier va comprendre le projet de Git évalué du groupe 24
 
-01 Nom:
+01 Nom: Dubard
 01 Prénom:
 02 Nom:
 02 Prénom:
